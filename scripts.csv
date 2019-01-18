@@ -1,0 +1,18 @@
+﻿Vuln,Script
+SSL Certificate with Wrong Hostname,ssl-cert.nse
+SSL Certificate Chain Contains RSA Keys Less Than 2048 bits,ssl-cert.nse
+SSLv3 Padding Oracle On Downgraded Legacy Encryption Vulnerability (POODLE),ssl-poodle.nse
+SSLv3 Padding Oracle On Downgraded LegaSSH Server CBC Mode Ciphers Enabled,ssl-enum-ciphers.nse
+SSL Version 2 and 3 Protocol Detection,ssl-enum-ciphers.nse
+SSL Certificate Signed Using Weak Hashing Algorithm,ssl-cert.nse
+SSL Medium Strength Cipher Suites Supported,ssl-enum-ciphers.nse
+SSL Certificate Cannot Be Trusted,ssl-cert.nse
+SSL Self-Signed Certificate,ssl-cert.nse
+SSL RC4 Cipher Suites Supported (Bar Mitzvah),ssl-enum-ciphers.nse
+OpenSSL AES-NI Padding Oracle MitM Information Disclosure,ssl-enum-ciphers.nse
+SSL Certificate Validity - Duration,ssl-cert.nse
+SSH Weak MAC Algorithms Enabled,ssh2-enum-algos.nse
+SSH Weak Algorithms Supported,ssh2-enum-algos.nse
+SSH Server CBC Mode Ciphers Enabled,ssh2-enum-algos.nse
+SSL/TLS Diffie-Hellman Modulus <= 1024 Bits (Logjam),ssl-dh-params.nse
+SSL Certificate Expiry,ssl-cert.nse
