@@ -12,5 +12,5 @@ Usage:
 
 2.	Use the command: python NmapNessus.py <Nessus_CSV_File>
 
-You can always add to the repository, scripts.csv, in case of issues missed out.
+You can always add new findings to the repository, scripts.csv, in case of issues missed out.
 
